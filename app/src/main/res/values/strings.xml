@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LikeAnmiation</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="double_click"> 双击有惊喜哦！</string>
+</resources>
